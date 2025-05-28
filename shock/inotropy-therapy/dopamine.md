@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[inotropy-therapy]]"
+  - "[[areas/health-n-healing/medical-models/shock/inotropy-therapy/inotropy-therapy]]"
 ---
 
 
